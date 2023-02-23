@@ -1,0 +1,7 @@
+﻿  Reading Qt configuration (C:/Qt/Qt5.10.1/5.10.1/msvc2015/bin/qmake)
+  moc LgQDumper.h
+   D:\Wheels\LgQDumper\LgQDumper\LgQDumper.h(0): Note: No relevant classes found. No output generated.
+  LgQDumper.cpp
+  moc_LgQDumper.cpp
+    正在创建库 D:\Wheels\LgQDumper\Debug\LgQDumper.lib 和对象 D:\Wheels\LgQDumper\Debug\LgQDumper.exp
+  LgQDumper.vcxproj -> D:\Wheels\LgQDumper\Debug\LgQDumper.dll
